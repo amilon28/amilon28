@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @amilon28
 - 👀 I’m interested in JS and it's Freamworks and Libraries
 - 🌱 I’m currently learning JS
-- 💞️ I’m looking to collaborate on Microsoft
+- 💞️ I’m looking to collaborate on Amazon
 - 📫 instagram: @_amingh78
 
 <!---
